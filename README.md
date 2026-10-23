@@ -1,5 +1,7 @@
 # 스마트탐구캠페인 — 탐구, 뭐부터 해야 할지 막막하다면?
 
+> 본 저장소는 상산고등학교 학생주도 프로젝트형 봉사활동의 일환으로 작성되었습니다.
+
 상산고 학생주도 프로젝트형 봉사활동(모둠형 · 캠페인활동)의 상세 보고서입니다.
 교내 설문으로 학생들이 탐구할 때 어디서 막히는지 조사하고, AI 도구로 자료를 **찾고, 확인하고, 정리하는** 방법을 가이드로 정리했습니다.
 
@@ -174,11 +176,23 @@ AI는 그럴듯한 가짜 논문이나 통계를 지어내기도 합니다(환�
 
 ## 6. 카드뉴스
 
-| | | |
+| 1. 표지 | 2. 설문 결과 | 3. 찾기 |
 | --- | --- | --- |
-| ![1](cardnews/card01.png) | ![2](cardnews/card02.png) | ![3](cardnews/card03.png) |
-| ![4](cardnews/card04.png) | ![5](cardnews/card05.png) | ![6](cardnews/card06.png) |
-| ![7](cardnews/card07.png) | ![8](cardnews/card08.png) | ![9](cardnews/card09.png) |
+| ![1. 표지](cardnews/card01.png) | ![2. 설문 결과](cardnews/card02.png) | ![3. 찾기](cardnews/card03.png) |
+| **4. 확인하기** | **5. 정리하기** | **6. 프롬프트** |
+| ![4. 확인하기](cardnews/card04.png) | ![5. 정리하기](cardnews/card05.png) | ![6. 프롬프트](cardnews/card06.png) |
+| **7. 바이브코딩** | **8. 난이도별 예시** | **9. 마무리** |
+| ![7. 바이브코딩](cardnews/card07.png) | ![8. 난이도별 예시](cardnews/card08.png) | ![9. 마무리](cardnews/card09.png) |
+
+### 파일 안내
+
+| 파일 | 내용 |
+| --- | --- |
+| [`poster/poster.png`](poster/poster.png) | 학년 게시판용 포스터 (A3 비율, 1680×2376px) |
+| [`cardnews/`](cardnews) | 카드뉴스 9장 (각 2160×2160px) |
+| [`data/survey_raw.csv`](data/survey_raw.csv) | 설문 원자료 7개와 유효 응답 여부 |
+
+포스터와 카드뉴스 9번의 QR 코드를 찍으면 이 저장소로 연결됩니다.
 
 ## 7. 한계와 다음에 보완할 점
 
